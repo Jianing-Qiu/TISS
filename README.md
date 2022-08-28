@@ -8,6 +8,7 @@ Jianing Qiu, Lipeng Chen, Xiao Gu, Frank P.-W. Lo, Ya-Yen Tsai, Jiankai Sun, Jia
 <br>
 published at IEEE Robotics and Automation Letters 2022
 
+The data can be downloaded using this [link](https://drive.google.com/drive/folders/1wJTUIwNBXokB5UUAy_xhKDY3V5fLIBKg?usp=sharing)
 
 The train and test pickle files contain the data in the following format:
 ```
