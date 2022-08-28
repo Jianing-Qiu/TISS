@@ -11,7 +11,7 @@ published at IEEE Robotics and Automation Letters 2022
 
 The train and test pickle files contain the data in the following format:
 ```
-{sample id: {'camera_wearer_traj': the trajectory of the camera wearer (stored in the TUM trajectory format. 10 time steps in total. 
+{sample_id: {'camera_wearer_traj': the trajectory of the camera wearer (stored in the TUM trajectory format. 10 time steps in total. 
                                    The first 3 time steps are for observation, and the remaining 7 are for prediction),
              'nearby_people': the trajectories of nearby people in the observation period, and they are stored in the following format:
                               {person_index: {'center': the body center of the tracked nearby person,
